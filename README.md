@@ -1,6 +1,6 @@
 **Simple Python Rest Client**
 -----------------------------
-----------
+
 **Prerequisites**
 
  - Python 2.7
@@ -19,7 +19,9 @@
 
 **Deployment**
 
- - Just run `server.py` from the command line or using PyCharm.
+ - Just run `server.py` from the command line or using any Python IDE.
+ - The default port is 9000. You can change it in `server.py`
+ - For the first run, uncomment  `# init_db()` to create a db file. 
 
 **License**
 
